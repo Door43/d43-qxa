@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[qxa:home|Door43 (qxa)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-qxa|d43-qxa repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-qxa/archive/master.zip|d43-qxa.zip]]
+
+**Recent Changes**
+{{changes>ns = qxa}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/qxa|Ethnologue data]]
+
